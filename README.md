@@ -2,3 +2,12 @@
 Download and open feed.py
 Free Sources Code Of
 Personal Voice Assistant
+
+
+
+Requirements
+pyttsx3
+SpeechRecognition
+wikipedia
+webbrowser
+bs4
