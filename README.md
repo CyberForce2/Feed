@@ -5,9 +5,12 @@ Personal Voice Assistant
 
 
 
-Requirements
+# Requirements
 pyttsx3
 SpeechRecognition
 wikipedia
 webbrowser
 bs4
+
+# Discord
+https://discord.gg/rwyncaKrPE
